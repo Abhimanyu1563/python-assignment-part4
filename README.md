@@ -5,14 +5,6 @@ This project analyses a student performance dataset, creates meaningful visualiz
 
 ---
 
-## 📁 Project Structure
-python-assignment-part4/
-│── part4_visualization_ml.ipynb
-│── students.csv
-│── README.md
-
----
-
 ## 📊 Dataset
 
 The dataset contains 15 students with the following features:
